@@ -10,3 +10,17 @@ p {
 .fa-small {
   font-size: 16px !important;
 }
+.btn-float {
+  float: left;
+}
+.flexing {
+  display: flex;
+  align-items: center;
+}
+.flexing form {
+  align-items: center;
+  margin: auto;
+}
+.img-small {
+  width: 180px;
+}
